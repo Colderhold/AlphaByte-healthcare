@@ -184,7 +184,7 @@ function get_specs(){
   </button>
 
   <style >
-    .bg-primary {931af
+    .bg-primary {
     background: -webkit-linear-gradient(left, #020024, #ff001b);
 }
 .list-group-item.active {
